@@ -32,6 +32,7 @@ Links
 
 - [Packal: Pingport](http://www.packal.org/workflow/pingport)
 - [Source Code](https://github.com/moul/alfred-workflow-pingport/)
+- [Forum Post](http://www.alfredforum.com/topic/4171-pingport-check-whether-a-tcp-port-is-open-or-closed/)
 
 License
 -------
