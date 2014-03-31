@@ -19,7 +19,7 @@ Installation
 Commands
 --------
 
--
+- `pingport {host} {port}`: Check whether host:port is closed or opened
 
 Dependencies
 ------------
