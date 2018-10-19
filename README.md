@@ -5,7 +5,7 @@ Alfred Workflow: PingPort
 [![library users](https://sourcegraph.com/api/repos/github.com/moul/alfred-workflow-pingport/badges/library-users.png)](https://sourcegraph.com/github.com/moul/alfred-workflow-pingport)
 [![Total views](https://sourcegraph.com/api/repos/github.com/moul/alfred-workflow-pingport/counters/views.png)](https://sourcegraph.com/github.com/moul/alfred-workflow-pingport)
 [![Views in the last 24 hours](https://sourcegraph.com/api/repos/github.com/moul/alfred-workflow-pingport/counters/views-24h.png)](https://sourcegraph.com/github.com/moul/alfred-workflow-pingport)
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/moul/alfred-workflow-pingport/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/moul/alfred-workflow-pingport/trend.png)](https://bitdeli.com/free "Bitdeli Badge") [![GuardRails badge](https://badges.production.guardrails.io/moul/alfred-workflow-pingport.svg)](https://www.guardrails.io)
 
 ![Screenshot](https://raw.githubusercontent.com/moul/alfred-workflow-pingport/master/screenshots/screenshot.png)
 
